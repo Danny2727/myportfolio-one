@@ -11,10 +11,10 @@
 -git pull origin main
 
 ## Screenshot
--
+-![Screen Shot 2023-01-16 at 6 44 05 PM](https://user-images.githubusercontent.com/113525669/212781135-c46b2c8e-a34b-47b4-8f8a-7378c77b80c7.png)
 
 ## Website Link
--
+-https://danny2727.github.io/myportfolio-one/
 
 ## Usage
 Use the file as an example on how you can build your own porfolio page.
